@@ -1,0 +1,8 @@
+*.jpg
+
+# Editor
+.vscode
+.vscode-test
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
